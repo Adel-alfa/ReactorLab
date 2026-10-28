@@ -8,6 +8,12 @@
 
 Reactor Lab is an interactive Windows desktop application for exploring the component, state, lifecycle, and composition patterns available in Microsoft.UI.Reactor. It is an educational sample built on the experimental `0.1.0-preview.16` package.
 
+## Screenshots
+
+| Light theme | Dark theme |
+| --- | --- |
+| ![Reactor Lab overview in light theme](docs/Screen1.png) | ![Reactor Lab overview in dark theme](docs/Screen2.png) |
+
 ## About the project
 
 [Microsoft.UI.Reactor](https://github.com/microsoft/microsoft-ui-reactor) brings a declarative, component-based programming model to WinUI 3. Instead of describing UI in XAML, components return typed C# elements. Reactor reconciles those descriptions into native WinUI controls, while hooks keep state and side effects close to the components that use them.
