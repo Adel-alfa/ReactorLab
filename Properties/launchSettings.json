@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "ReactorLab (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ReactorLab (Unpackaged)": {
+      "commandName": "Project"
+    },
+    "ReactorLab (Unpackaged, Devtools)": {
+      "commandName": "Project",
+      "commandLineArgs": "--devtools"
+    }
+  }
+}
